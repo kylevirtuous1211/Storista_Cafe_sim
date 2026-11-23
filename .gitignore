@@ -1,0 +1,10 @@
+# Renders and other generated files
+outputs/
+
+# Lavish review surfaces (local, regenerated)
+.lavish/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
