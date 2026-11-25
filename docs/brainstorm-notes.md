@@ -1,7 +1,7 @@
 # Brainstorm notes
 
 The running record of the Storista Café brainstorm: what is decided, what is only proposed, and what is still open.
-It comes before the design doc, which will be written in `docs/superpowers/specs/` once the open questions are settled.
+The design for the first milestone, the neighbors, is in [docs/superpowers/specs/2026-11-25-neighbors-design.md](superpowers/specs/2026-11-25-neighbors-design.md).
 Nothing is built yet.
 
 ## The idea
@@ -51,7 +51,14 @@ In English:
 
 This makes word of mouth through the neighbors' friendships the way the café wins new customers, so moments 1 and 3 become one system.
 
-## Proposed, not yet confirmed
+### Talking with neighbors: both, and start with the neighbors (2026-11-25)
+
+- The player taps one of three suggested replies, or types their own line at any time.
+- This was the recommended option; the answer on the review page was "let's go", sent together with the neighbor idea again, so it stands until changed.
+- "Let's go" also moved the round 2 and round 3 proposals below from proposals to the working direction, to be confirmed by approving the design doc.
+- The first milestone builds the neighbors before any 3D.
+
+## Working direction, confirmed by approving the design doc
 
 ### The café loop (round 2, 2026-11-22)
 
@@ -88,8 +95,8 @@ A cuter café draws new faces and opens new areas, and the loop starts again.
 
 ## Open questions
 
-- How do you talk with neighbors: type freely, pick from suggested replies, or both? (asked 2026-11-23; the proposal is both)
-- Still ahead: how decorating works, what there is to do in the valley, the first cast of neighbors, and how the AI asset pipeline joins this repo.
+- The first cast of neighbors is drafted in the design doc and waits for review.
+- Still ahead, each in its own milestone: what the neighbors look like, how decorating works, what there is to do in the valley, and how the AI asset pipeline joins this repo.
 
 ## The four looks compared (2026-11-22)
 
