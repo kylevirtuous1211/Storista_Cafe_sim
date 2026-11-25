@@ -7,6 +7,7 @@ A cozy idle game about running a little coffee shop: decorate your café, meet t
 **Status:** designing.
 Nothing is built yet.
 The decisions, proposals and open questions so far are in [docs/brainstorm-notes.md](docs/brainstorm-notes.md).
+The first milestone, the neighbors, is designed in [docs/superpowers/specs/2026-11-25-neighbors-design.md](docs/superpowers/specs/2026-11-25-neighbors-design.md) and waits for approval.
 
 ## The game so far
 
@@ -24,6 +25,7 @@ That pipeline lives in a separate local workspace for now, and the design doc wi
 ## Layout
 
 - `docs/brainstorm-notes.md` - decisions, proposals and open questions so far.
+- `docs/superpowers/specs/` - design documents, one per milestone.
 - `docs/concept-art/` - concept art for the four looks that were compared.
 - `tools/concept_art.py` - re-renders that concept art with the local ComfyUI (`uv run tools/concept_art.py`).
 
